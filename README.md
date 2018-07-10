@@ -32,7 +32,7 @@ DASH_BUTTON_MAC = 'xx:xx:xx:xx:xx:xx'
 ```
 
 Replace the `xx:xx:xx:xx:xx:xx` with your MAC address, but ensure **it is all lower case!**
----
+
 ## Running
 
 Once installed, you can run this by simply changing into the directory and executing as follows:
